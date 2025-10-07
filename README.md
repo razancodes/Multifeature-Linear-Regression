@@ -31,11 +31,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-Contributions and suggestions are welcome! Feel free to open issues or submit pull requests.
+Contributions and suggestions are welcome:) 
 
 ## Contact
 
-For any questions or feedback, you can reach out through GitHub issues or contact the repository owner.
+For any questions or feedback, yodo let me know :)
+inspired by greg hoggs implementation of multi-variable linear regression from scratch: https://www.youtube.com/watch?v=KYNuzfn5Fx0
 
 ---
 
